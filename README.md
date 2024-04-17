@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;What's+poppin'!?;+Myself+Ehsanul+Haque!;&center=true&size=30">
+  </a>
+</h1>
+
+
 <h1 align="center">Namaste 🙏, I'm Pranto Goswamee</h1>
 <h3 align="center">A passionate programmer from BANGLADESH.</h3>
 

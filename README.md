@@ -30,7 +30,7 @@
 <a href="https://twitter.com/anuraggoswamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuraggoswamee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranto goswamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto goswamee" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prantogoswamee?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anurag goswamee" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anurag_goswamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag goswamee" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anurag_goswamee_/profilecard/?igsh=MW56Znljdjg2cndsbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag goswamee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

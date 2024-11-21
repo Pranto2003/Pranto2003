@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anuraggoswamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuraggoswamee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranto goswamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto goswamee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranto-goswamee-8671082a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto goswamee" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prantogoswamee?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anurag goswamee" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anurag_goswamee_/profilecard/?igsh=MW56Znljdjg2cndsbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag goswamee" height="30" width="40" /></a>
 </p>

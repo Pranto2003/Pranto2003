@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
-- 💬 Ask me about **C++, JAVA, C#, MySql and DSA**
+- 💬 Ask me about **C++, JAVA, C#, Python, MySql, DSA and MERN**
 
 - 📫 How to reach me **prantogoswamee21@gmail.com**
 
